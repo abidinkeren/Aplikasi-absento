@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- QR Scan Corner Brackets (Gold) -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M30,30 L42,30 L42,34 L34,34 L34,42 L30,42 Z" />
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M78,30 L66,30 L66,34 L74,34 L74,42 L78,42 Z" />
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M30,78 L42,78 L42,74 L34,74 L34,66 L30,66 Z" />
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M78,78 L66,78 L66,74 L74,74 L74,66 L78,66 Z" />
+    
+    <!-- Crescent Moon Symbol in Center (White) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,40 C43.71,40 37,46.71 37,55 C37,63.29 43.71,70 52,70 C57.38,70 62.06,67.16 64.67,62.88 C62.98,63.6 61.08,64 59,64 C51.27,64 45,57.73 45,50 C45,44.78 47.86,40.23 52.12,37.82 Z" />
+    <!-- Star next to Crescent -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M65,42 L66.5,45.5 L70,46 L67.5,48.5 L68.2,52 L65,50.2 L61.8,52 L62.5,48.5 L60,46 L63.5,45.5 Z" />
+</vector>

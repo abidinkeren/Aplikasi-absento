@@ -1,0 +1,6 @@
+{
+  "name": "Absensi Sholat Siswa",
+  "description": "Aplikasi pencatat absensi sholat siswa dengan scan QR code dan laporan bulanan export Excel",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
